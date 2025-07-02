@@ -1,0 +1,10 @@
+/* style.css */
+
+body {
+  @apply bg-gradient-to-br from-purple-50 to-indigo-100 min-h-screen;
+  font-family: "Inter", sans-serif;
+}
+
+* {
+  transition: all 0.2s ease-in-out;
+}
